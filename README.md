@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi there 👋 I'm Mohammed Affan
 
-<!--
-**MohammedAffan-786/MohammedAffan-786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+Aspiring Software Engineer focused on AI systems, full-stack development, and scalable applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+
+### Languages
+- Python
+- JavaScript
+- TypeScript
+- HTML
+- CSS
+
+### Databases
+- MySQL
+
+### AI & Tools
+- LangChain
+- Gemini API
+- JWT Authentication
+- Git & GitHub
+- REST APIs
+
+---
+
+## 💻 Projects
+
+### EduReach Agentic College Chatbot
+AI-powered full-stack college assistance platform with:
+- Agentic RAG chatbot
+- AI voice counselor
+- JWT authentication
+- Student portal
+
+### AI Resume Analyzer
+AI-based resume analyzer using NLP and MySQL for:
+- Resume analysis
+- Skill extraction
+- Domain prediction
+- Course recommendations
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: www.linkedin.com/in/mdaffan1
+- Instagram: www.instagram.com/mohammedaffan.7866
+- YouTube: www.youtube.com/@MohammedAffan.7866
